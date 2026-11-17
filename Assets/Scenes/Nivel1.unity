@@ -12,7 +12,7 @@ GameObject:
   m_Name: PuntoDeInicio
 --- !u!4 &201
 Transform:
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -8, y: 3, z: 0}
 --- !u!1 &300
 GameObject:
   m_Name: Terreno
