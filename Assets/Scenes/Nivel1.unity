@@ -13,3 +13,12 @@ GameObject:
 --- !u!4 &201
 Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
+--- !u!1 &300
+GameObject:
+  m_Name: Terreno
+--- !u!1 &400
+GameObject:
+  m_Name: Plataforma
+--- !u!4 &401
+Transform:
+  m_LocalPosition: {x: -8, y: 2, z: 0}
